@@ -14,7 +14,7 @@ https://huggingface.co/datasets/BNNT/PatentMatch
 ## STF data
 General STF: https://huggingface.co/datasets/BNNT/mozi_general_instructions_3m
 
-Ip-specific STF:https://huggingface.co/datasets/BNNT/mozi_IP_instructions/
+Ip-specific STF: https://huggingface.co/datasets/BNNT/mozi_IP_instructions
 
 ## Example
 ![image](https://github.com/AI-for-Science/MoZi/assets/56249874/48de5e6e-8192-4553-9263-c8000a88307c)
