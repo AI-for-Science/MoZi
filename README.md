@@ -1,4 +1,4 @@
-# MoZi: An IP-oriented Multilingual Large Language Model
+# 墨子（MoZi）: An IP-oriented Multilingual Large Language Model
 ![image](https://github.com/AI-for-Science/MoZi/assets/56249874/0d0f8faa-4074-4748-b395-481517aea34e)
 
 ## Model
