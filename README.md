@@ -2,6 +2,8 @@
 ![image](https://github.com/AI-for-Science/MoZi/assets/56249874/0d0f8faa-4074-4748-b395-481517aea34e)
 
 ## Model
+（基于chatglm3-6b微调的mozi2-6b）https://huggingface.co/Nozomi7/mozi2-6b
+（基于baichuan2-7b微调的mozi2-7b）https://huggingface.co/Nozomi7/mozi2-7b
 https://huggingface.co/BNNT/mozi-7b
 
 ## MoZIP benchmark
