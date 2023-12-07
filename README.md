@@ -6,7 +6,7 @@
 
 （基于baichuan2-7b微调的mozi2-7b）https://huggingface.co/Nozomi7/mozi2-7b
 
-https://huggingface.co/BNNT/mozi-7b
+（基于bloomz-mt-7b微调的mozi-7b）https://huggingface.co/BNNT/mozi-7b
 
 ## MoZIP benchmark
 https://huggingface.co/datasets/BNNT/IPQuiz
