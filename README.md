@@ -1,6 +1,17 @@
 # 墨子（MoZi）: An IP-oriented Multilingual Large Language Model
 ![image](https://github.com/AI-for-Science/MoZi/assets/56249874/0d0f8faa-4074-4748-b395-481517aea34e)
 
+## Paper
+[MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property](https://arxiv.org/abs/2402.16389) (Accepted by LREC-COLING 2024)
+```
+@article{ni2024mozip,
+  title={MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property},
+  author={Ni, Shiwen and Tan, Minghuan and Bai, Yuelin and Niu, Fuqiang and Yang, Min and Zhang, Bowen and Xu, Ruifeng and Chen, Xiaojun and Li, Chengming and Hu, Xiping and others},
+  journal={arXiv preprint arXiv:2402.16389},
+  year={2024}
+}
+```
+
 ## Model
 （基于chatglm3-6b微调的mozi2-6b）https://huggingface.co/Nozomi7/mozi2-6b
 
