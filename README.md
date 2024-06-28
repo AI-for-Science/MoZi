@@ -13,6 +13,9 @@
 ```
 
 ## Model
+
+※（基于qwen2-7b微调的mozi3-7b）https://huggingface.co/Nozomi7/mozi3-7b  
+
 （基于chatglm3-6b微调的mozi2-6b）https://huggingface.co/Nozomi7/mozi2-6b
 
 （基于baichuan2-7b微调的mozi2-7b）https://huggingface.co/Nozomi7/mozi2-7b
