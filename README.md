@@ -14,13 +14,13 @@
 
 ## Model
 
-※（基于qwen2-7b微调的mozi3-7b）https://huggingface.co/Nozomi7/mozi3-7b  
+（基于qwen2-7b微调的**mozi3-7b**）https://huggingface.co/Nozomi7/mozi3-7b  
 
-（基于chatglm3-6b微调的mozi2-6b）https://huggingface.co/Nozomi7/mozi2-6b
+（基于chatglm3-6b微调的**mozi2-6b**）https://huggingface.co/Nozomi7/mozi2-6b
 
-（基于baichuan2-7b微调的mozi2-7b）https://huggingface.co/Nozomi7/mozi2-7b
+（基于baichuan2-7b微调的**mozi2-7b**）https://huggingface.co/Nozomi7/mozi2-7b
 
-（基于bloomz-mt-7b微调的mozi-7b）https://huggingface.co/BNNT/mozi-7b
+（基于bloomz-mt-7b微调的**mozi-7b**）https://huggingface.co/BNNT/mozi-7b
 
 ## MoZIP benchmark
 https://huggingface.co/datasets/BNNT/IPQuiz
