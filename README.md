@@ -7,7 +7,7 @@
 @article{ni2024mozip,
   title={MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property},
   author={Ni, Shiwen and Tan, Minghuan and Bai, Yuelin and Niu, Fuqiang and Yang, Min and Zhang, Bowen and Xu, Ruifeng and Chen, Xiaojun and Li, Chengming and Hu, Xiping and others},
-  journal={arXiv preprint arXiv:2402.16389},
+  journal={Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)},
   year={2024}
 }
 ```
